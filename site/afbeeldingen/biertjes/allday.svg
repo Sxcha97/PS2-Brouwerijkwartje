@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="565" height="565" viewBox="0 0 565 565">
+  <defs>
+    <filter id="Rectangle_3" x="0" y="0" width="565" height="565" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.373"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="535" height="534" transform="translate(0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="AllDay" transform="translate(10 10)">
+    <g id="Biertje">
+      <g transform="matrix(1, 0, 0, 1, -10, -10)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="535" height="535" transform="translate(10 10)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_130" data-name="Group 130" transform="translate(0)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_31" data-name="Rectangle 31" width="535" height="534" transform="translate(0)" fill="#e5666a"/>
+      <path id="Path_81" data-name="Path 81" d="M188.6,316.16" transform="translate(-110.301 -4.964)" fill="#4eb9af"/>
+      <g id="Group_129" data-name="Group 129" transform="translate(-58.027 -32.522)">
+        <path id="Path_82" data-name="Path 82" d="M379.125,164.028a288.818,288.818,0,0,1-34.082,54.728c-36.181,45.713-57.561,43.693-94.614,86.246-30.9,35.49-24.837,47.01-61.144,91.395a416.547,416.547,0,0,1-61.023,60.548c24.789-6.421,61.016-19.191,95.778-47.03,33.145-26.545,50.291-55.04,56.639-65.008,26.141-41.039,80.789-100.111,207.236-176.612Z" transform="translate(-128.262 -164.028)" fill="#edb6bd"/>
+        <path id="Path_83" data-name="Path 83" d="M153.315,587.6a256.726,256.726,0,0,1,47.622-53.174A261.091,261.091,0,0,1,244.7,504.82c48.942-27.754,57.828-62.31,111.991-119.072,64.3-67.387,88.087-56.732,127.438-112.635,25.91-36.8,38.122-73.413,44.412-99.117a920.647,920.647,0,0,1-131.3,109.415c-65.932,45.142-103.579,57.9-160.262,105.556A579.27,579.27,0,0,0,144.942,486.8Q149.127,537.2,153.315,587.6Z" transform="translate(-107.256 -151.475)" fill="#edb6bd"/>
+        <path id="Path_84" data-name="Path 84" d="M656.238,174a325.209,325.209,0,0,0-70.72,51.02c-39.581,37.688-39.83,57.478-75.193,91.5-42.76,41.143-56.84,26.1-102.371,66.133-46.445,40.838-42.451,65.857-82.536,105.83-23.637,23.569-62.261,52-126.735,69.016,124.648-5.766,183.293-43.472,213.625-79.314,18-21.269,39.941-58.325,88.959-81.942,30.506-14.7,43.716-10.809,71.3-23.615,26.687-12.388,61.815-38.074,92.039-97.829Q660.425,224.4,656.238,174Z" transform="translate(-39.578 -151.475)" fill="#edb6bd"/>
+        <path id="Path_85" data-name="Path 85" d="M267.167,599.11a219.762,219.762,0,0,1,11.776-19.93c45.429-68.4,101.431-68.9,172.13-119.585,53.384-38.275,38.678-50.343,119.582-119.585a911.115,911.115,0,0,1,91.5-68.851,493.542,493.542,0,0,0-114.149,49.827c-103.765,62.03-101.395,113.5-191.075,150.556-51.292,21.193-85.57,18.2-122.382,56-22.964,23.583-34.405,50.2-40.508,69.31Z" transform="translate(-45.421 -29.113)" fill="#edb6bd"/>
+        <path id="Path_86" data-name="Path 86" d="M630.65,306.382a272.181,272.181,0,0,0-59.2,42.713c-33.135,31.549-33.346,48.117-62.95,76.6-35.8,34.444-47.584,21.852-85.7,55.365-38.881,34.186-35.537,55.132-69.1,88.6-19.789,19.733-52.123,43.533-106.1,57.778,104.35-4.826,153.448-36.393,178.84-66.4,15.067-17.806,33.436-48.827,74.47-68.6,25.54-12.3,36.6-9.046,59.7-19.769,22.343-10.37,51.75-31.873,77.05-81.9Z" transform="translate(22.028 15.244)" fill="#edb6bd"/>
+      </g>
+    </g>
+    <text id="All_Day" data-name="All Day" transform="translate(267 199)" fill="#fff" font-size="71" font-family="PosterBlack-Regular, PosterBlack"><tspan x="-152.402" y="0">All Day</tspan></text>
+    <text id="_0_0_" data-name="0,0%" transform="translate(268 280)" fill="#fff" font-size="42" font-family="PosterBlack-Regular, PosterBlack"><tspan x="-54.096" y="0">0,0%</tspan></text>
+    <text id="_" data-name="★★★★★" transform="translate(140 375)" fill="#fff" font-size="50" font-family="PingFangSC-Semibold, PingFang SC" font-weight="600"><tspan x="0" y="0">★★★★★</tspan></text>
+  </g>
+</svg>

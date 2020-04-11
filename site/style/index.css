@@ -1,0 +1,128 @@
+
+/* De opmaak van alle elementen in de juiste volgorde
+van boven naar beneden. Het buitenste element staat als eerst */
+
+body {
+	background-color: #FFDF89;
+}
+
+.welkom {
+	width: 100%;
+	overflow: hidden;
+}
+
+h1 {
+	color: #8E7957;
+	font-size: 60px;
+	font-family: poster-black, sans-serif;
+	margin-left: 7%;
+	margin-top: 150px;
+}
+
+h2 {
+	color: #8E7957;
+	font-size: 25px;
+	font-family: poster-black, sans-serif;
+	margin-left: 7%;
+}
+
+.assorti {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	margin-top: -20px;
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+.bier {
+	width: 300px;
+}
+
+.bekijkassort {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.bekijkassorti {
+	text-decoration: none;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	font-size: 20px;
+	color: #8E7957;
+	background-color: white;
+	padding: 10px 30px 10px 30px;
+	max-width: 300px;
+	border-radius: 25px;
+	box-shadow: 0px 3px 5px #525252;
+}
+
+.bekijkassorti:hover {
+	box-shadow: 0px 0px 0px #525252;
+}
+
+.events {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	margin-top: -30px;
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+.event {
+	width: 300px;
+}
+
+.biertasting {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+.tasting {
+	text-decoration: none;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	font-size: 20px;
+	color: #8E7957;
+	background-color: white;
+	padding: 10px 30px 10px 30px;
+	max-width: 300px;
+	border-radius: 25px;
+	box-shadow: 0px 3px 5px #525252;
+	margin-bottom: 10px;
+}
+
+.tasting:hover {
+	box-shadow: 0px 0px 0px #525252;
+}
+
+.bekijkevents {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.bekijkevent {
+	text-decoration: none;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	font-size: 20px;
+	color: #8E7957;
+	background-color: white;
+	padding: 10px 30px 10px 30px;
+	max-width: 300px;
+	border-radius: 25px;
+	box-shadow: 0px 3px 5px #525252;
+	margin-bottom: 100px;
+}
+
+.bekijkevent:hover {
+	box-shadow: 0px 0px 0px #525252;
+}
+
+
+
+
+

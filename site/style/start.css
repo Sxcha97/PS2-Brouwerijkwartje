@@ -1,0 +1,36 @@
+
+/* De opmaak van alle elementen in de juiste volgorde
+van boven naar beneden. Het buitenste element staat als eerst */
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #FFF3D1;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+
+}
+
+.start {
+	margin-top: 40%;
+	text-decoration: none;
+	text-align: center;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	font-size: 40px;
+	color: white;
+	background-color: #8E7957;
+	padding: 30px 100px 30px 100px;
+	border-radius: 25px;
+	box-shadow: 0px 3px 5px #525252;
+
+}
+
+.start:hover {
+
+	box-shadow: 0px 0px 0px #525252;
+}
+}

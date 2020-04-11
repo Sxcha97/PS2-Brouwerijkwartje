@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="567" height="567" viewBox="0 0 567 567">
+  <defs>
+    <filter id="Rectangle_3" x="0" y="0" width="567" height="567" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.373"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="536.612" height="536.612" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Fire_wire" data-name="Fire wire" transform="translate(9.936 10.479)">
+    <g id="Biertje" transform="translate(0.064 -0.479)">
+      <g transform="matrix(1, 0, 0, 1, -10, -10)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="537" height="537" transform="translate(10 10)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Group_94" data-name="Group 94" transform="translate(0 0.049)">
+      <g id="Group_93" data-name="Group 93" clip-path="url(#clip-path)">
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="536.612" height="536.612" fill="#e9a034"/>
+        <path id="Path_15" data-name="Path 15" d="M188.6,316.16" transform="translate(-109.811 -3.764)" fill="#4eb9af"/>
+        <g id="Group_92" data-name="Group 92" transform="translate(-58.05 -32.612)">
+          <path id="Path_16" data-name="Path 16" d="M380.068,164.028a289.906,289.906,0,0,1-34.21,54.934c-36.317,45.885-57.777,43.857-94.97,86.57-31.017,35.623-24.93,47.187-61.374,91.738a418.108,418.108,0,0,1-61.252,60.775c24.883-6.445,61.245-19.263,96.138-47.207,33.269-26.645,50.479-55.246,56.852-65.252C307.49,304.393,362.345,245.1,489.266,168.31Z" transform="translate(-128.262 -164.028)" fill="#ecc26b"/>
+          <path id="Path_17" data-name="Path 17" d="M153.347,589.153a257.7,257.7,0,0,1,47.8-53.373,262.076,262.076,0,0,1,43.93-29.718C294.2,478.2,303.123,443.518,357.489,386.543c64.545-67.64,88.418-56.945,127.917-113.058C511.413,236.543,523.671,199.8,529.985,174A924.11,924.11,0,0,1,398.19,283.822c-66.18,45.311-103.968,58.122-160.864,105.953a581.444,581.444,0,0,0-92.384,98.2Q149.143,538.561,153.347,589.153Z" transform="translate(-107.115 -151.39)" fill="#ecc26b"/>
+          <path id="Path_18" data-name="Path 18" d="M657.956,174a326.43,326.43,0,0,0-70.985,51.212c-39.73,37.83-39.979,57.693-75.476,91.845-42.921,41.3-57.054,26.2-102.755,66.382-46.62,40.991-42.61,66.1-82.846,106.227-23.726,23.658-62.494,52.194-127.211,69.275C323.8,553.149,382.665,515.3,413.11,479.325c18.068-21.349,40.091-58.544,89.293-82.249,30.62-14.754,43.88-10.849,71.572-23.7,26.788-12.434,62.048-38.217,92.384-98.2Q662.159,224.584,657.956,174Z" transform="translate(-38.981 -151.39)" fill="#ecc26b"/>
+          <path id="Path_19" data-name="Path 19" d="M267.441,600.342a220.541,220.541,0,0,1,11.82-20c45.6-68.658,101.812-69.155,172.776-120.034,53.584-38.419,38.823-50.532,120.031-120.034a914.557,914.557,0,0,1,91.845-69.11,495.4,495.4,0,0,0-114.577,50.015C445.182,383.438,447.561,435.106,357.544,472.3,306.06,493.568,271.653,490.561,234.7,528.5c-23.05,23.672-34.534,50.389-40.66,69.57Z" transform="translate(-44.863 -28.203)" fill="#ecc26b"/>
+          <path id="Path_20" data-name="Path 20" d="M632.089,306.382a273.2,273.2,0,0,0-59.426,42.873c-33.26,31.668-33.471,48.3-63.186,76.888-35.931,34.573-47.763,21.934-86.023,55.573-39.027,34.314-35.671,55.339-69.355,88.928-19.864,19.807-52.319,43.7-106.5,58,104.742-4.844,154.024-36.53,179.512-66.649,15.124-17.873,33.562-49.01,74.75-68.856,25.635-12.351,36.737-9.08,59.921-19.844,22.427-10.409,51.945-31.992,77.34-82.206Z" transform="translate(23.04 16.452)" fill="#ecc26b"/>
+        </g>
+      </g>
+    </g>
+    <text id="Fire_wire-2" data-name="Fire wire" transform="translate(266.064 198.521)" fill="#fff" font-size="70" font-family="PosterBlack-Regular, PosterBlack"><tspan x="-190.54" y="0">Fire wire</tspan></text>
+    <text id="_5_5_" data-name="5,5%" transform="translate(269.064 280.521)" fill="#fff" font-size="42" font-family="PosterBlack-Regular, PosterBlack"><tspan x="-48.846" y="0">5,5%</tspan></text>
+    <text id="_" data-name="★★★★☆" transform="translate(141.064 376.521)" fill="#fff" font-size="50" font-family="PingFangSC-Semibold, PingFang SC" font-weight="600"><tspan x="0" y="0">★★★★☆</tspan></text>
+  </g>
+</svg>

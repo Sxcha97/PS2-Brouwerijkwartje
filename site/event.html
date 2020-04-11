@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Bier Tasting</title>
+		<link rel="stylesheet" href="https://use.typekit.net/jwl7bsu.css">
+		<link href="style/main.css" rel="stylesheet" type="text/css">
+		<link href="style/event.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<!-- Alle informatie over de header staat in index.html -->
+		<header id="hoofdmenu">
+			<nav id="navigatie">
+				<div>
+					<a href="index.html">
+						<img src="afbeeldingen/logo.svg" class="escape">
+					</a>
+				</div>
+				<div>
+					<ul class="paginas">
+						<li><a href="assortiment.html" class="button">Assortiment</a></li>
+						<li><a href="evenementen.html" class="button">Evenementen</a></li>
+						<li><a href="hurenbestellen.html" class="button">Huren&Bestellen</a></li>
+						<li><a href="overons.html" class="button">Over Ons</a></li>
+					</ul>
+				</div>
+			</nav>
+		</header>
+
+		<!-- alle inhoud. We beginnen met de herkenbare titel Evenementen. daaronder staat een kleine knop waarmee je terug kan naar het overzicht van alle evenementen. Onder deze kop wordt gevolgd met de titel van het evenement en wat uitnodigende informatie. dit wordt gevolgd door informatie over het evenement zoals de datum en kosten. Onder aan de pagina staat een formulier waarmee je jezelf kan inschrijven voor het evenement. De verzend knop opent een popup die aangeeft dat de inschrijving is voltooid.-->
+		<div class="evenement">
+			<!-- de titel met daaronder de terug knop -->
+			<h1 class="even">evenementen</h1>
+			<a href="evenementen.html" class="terug">&lt;Ga terug</a>
+		</div>
+
+		<!-- de informatie over het event en afbeelding -->
+		<div class="overevent">
+			<div class="info">
+				<!-- titel met uitnodigende tekst -->
+				<h1 class="tasting">Bier tasting</h1>
+				<p>Ben jij een echte fan van speciaal bier? Zie je interessante biertjes op onze site? Wil jij de allernieuwste smaken proeven? Kom dan donderdag 21 mei naar onze bier tasting! voor &euro;25,00 ben je gegarandeerd van een avond vol gezelligheid, hapjes en natuurlijk de allerlekkerste biertjes!</p>
+				<!-- essentiele informatie  -->
+				<h2>Datum: 21 mei<br />Tijd: 20:00 tot 24:00<br />Plaats: Brouwerij kwartje<br />Prijs: €25 p.p. (contant meenemen)</h2>
+			</div>
+			<!-- bijpassende afbeelding -->
+			<img src="afbeeldingen/event.svg" class="foto">
+		</div>
+
+		<!-- inschrijfform -->
+		<fieldset class="schrijf">
+			<!-- titel -->
+			<legend>Schrijf je in!</legend>
+			<!-- alles staat in div's zodat het met flexbox gevormd kan worden. -->
+			<div class="inhoud">
+				<div>
+				<!-- hier voel je je mail in -->	
+				<input type="text" name="email" placeholder="email adres" class="invul1 inschrijven" />
+				</div>
+				<!-- hier vul je je voornaam in -->
+				<div>
+					<input type="text" name="voornaam" placeholder="voornaam" class="invul2 inschrijven" />
+				</div>
+				<!-- hier vul je je achternaam in -->
+				<div>
+					<input type="text" name="achternaam" placeholder="achternaam" class="invul3 inschrijven" />
+				</div>
+				<!-- Hier vul je het aantal personen in met wie je komt -->
+				<div>
+					<input type="text" name="aantal" placeholder="aantal personen" class="invul4 inschrijven" />
+				</div>
+				<!-- Hier zet je overig commentaar. eventuele allergieen of vragen -->
+				<div>
+					<textarea name="comment" cols="120" rows="3" class="invul5 inschrijven" placeholder="Comment (niet verplicht, maar wel handig als je nog iets kwijt wilt!)"></textarea>
+				</div>
+				<!-- met deze knop verzend je de inschrijving en opent een popup scherm dat toont dat de inschrijving is voltooid. -->
+				<div class="verzenden">
+					<a href="inschrijven.html" class="verzend" onclick="window.open('inschrijven.html', 'inschrijven', 'width=600,height=425,scrollbars=no,toolbar=no,location=no'); return false">verzend!</a>
+					
+				</div>
+			</div>
+		</fieldset>
+
+	</body>
+</html>

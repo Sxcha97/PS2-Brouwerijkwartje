@@ -1,0 +1,146 @@
+/* De opmaak van alle elementen in de juiste volgorde
+van boven naar beneden. Het buitenste element staat als eerst */
+
+body {
+		background-color: #FFF3D1;
+}
+
+.evenement {
+	overflow: hidden;
+}
+
+.even {
+	color: #8E7957;
+	font-size: 80px;
+	font-family: poster-black, sans-serif;
+	margin-left: 7%;
+	margin-top: 140px;
+	margin-bottom: -15px;
+}
+
+.terug {
+	color: #8E7957;
+	font-size: 20px;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	text-decoration: none;
+	margin-left: 7%;
+}
+
+.terug:hover {
+	color: #CCB083;
+}
+
+.overevent {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-left: 6%;
+	margin-right: 6%;
+}
+
+.info {
+	width: 50%;
+	margin-top: 20px;
+}
+
+.tasting {
+	color: #8E7957;
+	font-size: 50px;
+	font-family: poster-black, sans-serif;
+}
+
+p {
+	font-family: skia, sans-serif;
+	color: #8E7957;
+	margin-top: -20px;
+}
+
+h2 {
+	color: #8E7957;
+	font-size: 20px;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+}
+
+.foto {
+	width: 50%;
+	padding-top: 50px;
+}
+
+.inhoud{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.schrijf {
+	padding-left: 6%;
+	border: none;
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+
+::placeholder{
+	color: #D1C9BB;
+}
+
+legend {
+	text-align: center;
+	color: #8E7957;
+	font-size: 50px;
+	font-family: poster-black, sans-serif;
+}
+
+.inschrijven {
+	color: #8E7957;
+	font-size: 15px;
+	padding: 10px;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	margin: 10px;
+	border:1px solid #8E7957;
+}
+
+.invul1 {
+	width: 850px;
+}
+
+.invul2{
+	width: 300px;
+}
+
+.invul3{
+	width: 400px;
+}
+
+.invul4{
+	width: 300px;
+}
+
+.verzenden{
+	display: flex;
+	justify-content: center;
+	width: 900px;
+}
+
+.verzend {
+	text-decoration: none;
+	text-align: center;
+	font-family: kon-tiki-aloha-jf, sans-serif;
+	font-size: 15px;
+	color: white;
+	background-color: #8E7957;
+	padding: 5px 100px 5px 100px;
+	border-radius: 25px;
+	box-shadow: 0px 3px 5px #525252;
+}
+
+.verzend:hover {
+	box-shadow: 0px 0px 0px #525252;
+}
+
+
+
+
+
+
+
